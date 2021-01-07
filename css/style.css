@@ -3301,6 +3301,9 @@ h6 {
       margin-bottom: 0; }
     .footer_area .footer_bottom a {
       color: #854fee; }
+      .github {
+        height: 45px;
+      }
 
 /* End Footer Area css
 ============================================================================================ */
