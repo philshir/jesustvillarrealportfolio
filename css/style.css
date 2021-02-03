@@ -324,9 +324,6 @@ button:focus {
 .owl-carousel.off {
   display: -ms-flexbox;
   display: flex; }
-
-/*---------------------------------------------------- */
-/*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
@@ -383,7 +380,7 @@ button:focus {
         font-size: 24px;
         margin-bottom: 35px; }
       .home_banner_area .banner_inner .banner_content .primary_btn {
-        margin-right: 20px; }
+        margin: 20px; }
 
 .banner_area {
   position: relative;
@@ -3075,8 +3072,8 @@ h6 {
 
   .home_banner_area .banner_inner .banner_content {
     margin-top: 0px; }
-    .home_banner_area .banner_inner .banner_content .primary_btn {
-      display: none; }
+   /*  .home_banner_area .banner_inner .banner_content .primary_btn {
+      display: none; } */
 
   /* Blog Page Area css
   ============================================================================================ */
