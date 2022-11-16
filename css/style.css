@@ -92,13 +92,20 @@ button:focus {
 .main_title {
   text-align: center;
   margin-bottom: 100px; }
+
+  .project-technologies {
+    font-size: 26px;
+    color: #007bff;
+    text-align: center;
+  }
+
   @media (max-width: 1199px) {
     .main_title {
       margin-bottom: 50px; } }
   .main_title h2 {
     font-size: 36px;
     font-weight: 700;
-    margin-bottom: 15px;
+    margin-bottom: 0;
     line-height: 50px;
     text-transform: uppercase; }
     @media (max-width: 991px) {
